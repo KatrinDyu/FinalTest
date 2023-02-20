@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\GBR\си шарп\gbr13\bin\Debug\net6.0\gbr13.exe
+C:\Users\Lenovo\Desktop\GBR\си шарп\gbr13\bin\Debug\net6.0\gbr13.deps.json
+C:\Users\Lenovo\Desktop\GBR\си шарп\gbr13\bin\Debug\net6.0\gbr13.runtimeconfig.json
+C:\Users\Lenovo\Desktop\GBR\си шарп\gbr13\bin\Debug\net6.0\gbr13.dll
+C:\Users\Lenovo\Desktop\GBR\си шарп\gbr13\bin\Debug\net6.0\gbr13.pdb
+C:\Users\Lenovo\Desktop\GBR\си шарп\gbr13\obj\Debug\net6.0\gbr13.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\GBR\си шарп\gbr13\obj\Debug\net6.0\gbr13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\GBR\си шарп\gbr13\obj\Debug\net6.0\gbr13.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\GBR\си шарп\gbr13\obj\Debug\net6.0\gbr13.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\GBR\си шарп\gbr13\obj\Debug\net6.0\gbr13.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\GBR\си шарп\gbr13\obj\Debug\net6.0\gbr13.dll
+C:\Users\Lenovo\Desktop\GBR\си шарп\gbr13\obj\Debug\net6.0\refint\gbr13.dll
+C:\Users\Lenovo\Desktop\GBR\си шарп\gbr13\obj\Debug\net6.0\gbr13.pdb
+C:\Users\Lenovo\Desktop\GBR\си шарп\gbr13\obj\Debug\net6.0\gbr13.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\GBR\си шарп\gbr13\obj\Debug\net6.0\ref\gbr13.dll
