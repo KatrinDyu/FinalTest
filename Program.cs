@@ -4,5 +4,5 @@ string [] arr = {"Kate", "Ted", "John", "Mary", "Lu"};
 for (int i = 0; i < arr.Length; i++)
 {
     if (arr[i].Length <= 3)
-    Console.WriteLine(arr[i]);
+    Console.Write($"{arr[i]} ");
 }
